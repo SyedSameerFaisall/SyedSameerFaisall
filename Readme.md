@@ -13,6 +13,10 @@
 <a href="https://github.com/SyedSameerFaisall"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/London%2C%20UK-000000?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
+<br/><br/>
+
+<img src="./assets/hero-isometric.svg" width="100%" alt="SWE · Data Science · Quant Finance"/>
+
 </div>
 
 <br/>
@@ -43,8 +47,37 @@ I'm a **BSc Data Science student at UCL (ranked 1st in cohort)**, currently inte
 
 <br/>
 
+## 📊 3D Contribution Landscape
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+<div align="center">
+
+<img src="./assets/section-glow.svg" width="100%" alt=""/>
+
+<br/>
+
+<img src="./profile-3d-contrib/profile-quant-terminal.svg" width="100%" alt="Quant terminal 3D contribution graph — gold & cyan finance theme"/>
+
+<br/><br/>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="./profile-3d-contrib/profile-ml-neural.svg" width="100%" alt="ML neural spectrum 3D graph"/>
+      <br/><sub><b>ML / Neural Spectrum</b> — purple & indigo AI theme</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="./profile-3d-contrib/profile-bull-market.svg" width="100%" alt="Bull market 3D contribution graph"/>
+      <br/><sub><b>Quant Terminal</b> — green candlestick / bull-market theme</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br/>
+      <img src="./profile-3d-contrib/profile-data-science.svg" width="100%" alt="Data science seasonal 3D graph"/>
+      <br/><sub><b>Data Science Seasons</b> — blue → cyan → purple → gold pipeline</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
