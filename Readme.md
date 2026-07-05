@@ -81,6 +81,10 @@ I'm a **BSc Data Science student at UCL (ranked 1st in cohort)**, currently inte
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedSameerFaisall&theme=tokyonight&hide_border=true" />
 
+<br/>
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+
 </div>
 
 > These are live SVGs pulled from your real GitHub activity — they redraw automatically every time someone visits your profile, no maintenance needed. If a card ever shows as broken, it's almost always the hosted service hitting a temporary GitHub API rate limit — refreshing the page usually fixes it, and it's not something wrong with your profile.
