@@ -47,36 +47,18 @@ I'm a **BSc Data Science student at UCL (ranked 1st in cohort)**, currently inte
 
 | Project | What it does |
 |---|---|
+| **[CLAM](https://github.com/SyedSameerFaisall/CLAM-Command-Line-Assistant)** | Fully offline CLI assistant with inline suggestions & auto error-fixing — **<100ms** response via multi-tier caching |
 | **[Financial-Investment-Agent](https://github.com/SyedSameerFaisall/Financial-Investment-Agent)** | AI investment analyst evaluating stocks across valuation, technicals, analyst ratings & news sentiment |
-| **[Brain-MRI-Classifier](https://github.com/SyedSameerFaisall/Brain-MRI-Classifier)** | CNN classifying brain MRI scans across four tumor categories — **96% test accuracy** |
-| **[Book-Recommender-System](https://github.com/SyedSameerFaisall/Book-Recommender-System)** | Semantic book recommender using vector search + NLP on descriptions and emotional tone |
-| **[NN-From-Scratch](https://github.com/SyedSameerFaisall/NN-From-Scratch)** | A from-scratch autograd engine and neural network library — backprop, no shortcuts |
-| **[HEP-citation-analysis](https://github.com/SyedSameerFaisall/HEP-citation-analysis)** | Statistical analysis of arXiv High Energy Physics citation networks (1993–2001) |
+| **[Simulatr](https://github.com/SyedSameerFaisall/Simulatr)** | AI-powered simulation platform, concept → production — FastAPI, React, TypeScript, PostgreSQL, OAuth, Stripe |
+| **[Automated Insight Engine](https://github.com/SyedSameerFaisall/Data-Analyzer)** | CrewAI + LangChain multi-agent system autonomously synthesizing insights from unstructured data |
 | **[FareShare-Database](https://github.com/SyedSameerFaisall/FareShare-Database)** | Database tracking surplus food flow from suppliers to charities — hunger/waste/CO₂ impact |
-| **Emergentica** | Real-time multi-agent voice-to-dashboard triage system — LangGraph + AWS Bedrock, **96.2% accuracy** at **sub-$0.15/call** |
-| **CLAM** | Fully offline CLI assistant with inline suggestions & auto error-fixing — **<100ms** response via multi-tier caching |
-| **Automated Insight Engine** | CrewAI + LangChain multi-agent system autonomously synthesizing insights from unstructured data |
-| **Simulatr** | AI-powered simulation platform, concept → production — FastAPI, React, TypeScript, PostgreSQL, OAuth, Stripe |
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SyedSameerFaisall&theme=github_dark" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedSameerFaisall&theme=tokyonight&hide_border=true" />
+| **[Emergentica](https://github.com/SyedSameerFaisall/Emergentica)** | Real-time multi-agent voice-to-dashboard triage system — LangGraph + AWS Bedrock, **96.2% accuracy** at **sub-$0.15/call** |
 
 <br/>
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 
 </div>
-
-> These are live SVGs pulled from your real GitHub activity — they redraw automatically every time someone visits your profile, no maintenance needed. If a card ever shows as broken, it's almost always the hosted service hitting a temporary GitHub API rate limit — refreshing the page usually fixes it, and it's not something wrong with your profile.
 
 <br/>
 
