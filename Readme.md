@@ -17,18 +17,7 @@
 
 <br/>
 
-## 👋 About Me
-
 I'm a **BSc Data Science student at UCL (ranked 1st in cohort)**, currently interning as a **Software Engineer at J.P. Morgan** on the Digital & Platform team within Investment Banking. I build things at the intersection of **machine learning, multi-agent AI systems, and quantitative finance** — from portfolio risk models to voice-to-dashboard emergency triage systems.
-
-- 🔭 Currently building multi-agent AI workflows with **LangGraph, CrewAI, and AWS Bedrock**
-- 📊 Focused on **statistical modeling, time-series forecasting (ARIMA/LSTM)**, and **portfolio risk (VaR)**
-- 🎓 UCL Global Undergraduate Scholar · 5 A\* at A-Level (top 0.1% nationally)
-- 🚀 CTO & Tech Lead @ **Simulatr** — an AI-powered simulation platform, concept → production
-- 🏛️ VP @ **UCL Data Science Society** — scaled paid membership +200%, ran SQL workshops for 100+ students
-- 💬 Ask me about: agentic AI pipelines, LLM orchestration, or financial time-series models
-
-<br/>
 
 ## 🧰 Tech Stack
 
