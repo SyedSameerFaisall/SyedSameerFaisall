@@ -43,18 +43,6 @@ I'm a **BSc Data Science student at UCL (ranked 1st in cohort)**, currently inte
 
 <br/>
 
-## 🛠️ Notable Builds
-
-| Project | What it does |
-|---|---|
-| **[CLAM](https://github.com/SyedSameerFaisall/CLAM-Command-Line-Assistant)** | Fully offline CLI assistant with inline suggestions & auto error-fixing — **<100ms** response via multi-tier caching |
-| **[Financial-Investment-Agent](https://github.com/SyedSameerFaisall/Financial-Investment-Agent)** | AI investment analyst evaluating stocks across valuation, technicals, analyst ratings & news sentiment |
-| **[Simulatr](https://github.com/SyedSameerFaisall/Simulatr)** | AI-powered simulation platform, concept → production — FastAPI, React, TypeScript, PostgreSQL, OAuth, Stripe |
-| **[Automated Insight Engine](https://github.com/SyedSameerFaisall/Data-Analyzer)** | CrewAI + LangChain multi-agent system autonomously synthesizing insights from unstructured data |
-| **[FareShare-Database](https://github.com/SyedSameerFaisall/FareShare-Database)** | Database tracking surplus food flow from suppliers to charities — hunger/waste/CO₂ impact |
-| **[Emergentica](https://github.com/SyedSameerFaisall/Emergentica)** | Real-time multi-agent voice-to-dashboard triage system — LangGraph + AWS Bedrock, **96.2% accuracy** at **sub-$0.15/call** |
-
-<br/>
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 
