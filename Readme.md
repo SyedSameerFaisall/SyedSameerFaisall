@@ -17,7 +17,7 @@
 
 <br/>
 
-I'm a **BSc Data Science student at UCL (ranked 1st in cohort)**, currently interning as a **Software Engineer at J.P. Morgan** on the Digital & Platform team within Investment Banking. I build things at the intersection of **machine learning, multi-agent AI systems, and quantitative finance** — from portfolio risk models to voice-to-dashboard emergency triage systems.
+I'm a **BSc Data Science student at UCL (ranked 1st in cohort)**, currently interning as a **Software Engineer at J.P. Morgan** on the Digital & Platform team within Investment Banking. I build things at the intersection of **machine learning, multi-agent AI systems, and quantitative finance** — from portfolio risk models to developer tools.
 
 ## 🧰 Tech Stack
 
