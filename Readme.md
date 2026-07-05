@@ -17,7 +17,7 @@
 
 <br/>
 
-I'm a **BSc Data Science student at UCL (ranked 1st in cohort)**, currently interning as a **Software Engineer at J.P. Morgan** on the Digital & Platform team within Investment Banking. I build things at the intersection of **machine learning, multi-agent AI systems, and quantitative finance** — from portfolio risk models to developer tools.
+I'm a **BSc Data Science student at UCL (ranked 1st in cohort)**, currently interning as a **Software Engineer at J.P. Morgan** on the Digital & Platform team within Investment Banking. I build things at the intersection of **machine learning, multi-agent AI systems, and quantitative finance**, from portfolio risk models to developer tools.
 
 ## 🧰 Tech Stack
 
@@ -50,24 +50,9 @@ I'm a **BSc Data Science student at UCL (ranked 1st in cohort)**, currently inte
 
 <br/>
 
-## 🎓 Education & Experience Snapshot
-
-```
-2024 – 2027   BSc Data Science, Statistical Science — University College London (Ranked 1st)
-2023 – 2024   Computer Engineering / CS — Hong Kong University of Science & Technology
-2021 – 2023   A-Levels (5A*) — Nixor College, Karachi
-
-2026 – Now    Software Engineer Intern — J.P. Morgan (Digital & Platform, IB)
-2025 – Now    MAPS Summer Research Intern — UCL Dept. of Mathematics (Learning Analytics)
-2025 – Now    Vice President — UCL Data Science Society
-2025 – Now    CTO & Tech Lead — Simulatr
-```
-
-<br/>
-
 <div align="center">
 
-### 📫 Let's connect — always up for talking AI agents, quant finance, or UCL data science
+### 📫 Let's connect — always up for talking anything tech related
 
 <a href="https://www.linkedin.com/in/syedsameerfaisal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:syedsameerfaisal1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
