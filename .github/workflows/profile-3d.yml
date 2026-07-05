@@ -20,6 +20,16 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      - name: Distinct pie chart colors
+        run: |
+          for f in profile-3d-contrib/*.svg; do
+            sed -i 's/#3572A5/#FFD43B/gI' "$f"
+            sed -i 's/#198CE7/#A855F7/gI' "$f"
+            sed -i 's/#444444/#94A3B8/gI' "$f"
+            sed -i 's/#89e051/#22C55E/gI' "$f"
+            sed -i 's/#f34b7d/#EC4899/gI' "$f"
+          done
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
